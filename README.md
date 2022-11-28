@@ -1,8 +1,8 @@
 <a href="https://gar.dev" title="Visit Georgi's personal website">
-  <img align="center" src="https://gar.dev/images/og-default.png" height="195" />
+  <img align="center" src="https://gar.dev/images/og-default.png" height="160" />
 </a>
 <a href="https://github.com/GeorgeSG" title="Georgi's Github Profile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeSG&custom_title=Github%20Stats&show_icons=true&hide_border=true&count_private=true&border_radius=0" alt="Georgi's Github Stats"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeSG&custom_title=Github%20Stats&show_icons=true&hide_border=true&count_private=true&border_radius=0" alt="Georgi's Github Stats" height="160" />
 </a>
 
 <!--
